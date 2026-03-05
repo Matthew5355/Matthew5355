@@ -24,4 +24,8 @@ I build things that blink, move, and communicate. My passion lies at the interse
 ---
 
 ### 📬 Connect with me
-- [GitHub](https://github.com/Matthew5355)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateusz_Kozłowicz-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateuszkozlowicz/)
+[![GitHub](https://img.shields.io/badge/GitHub-Matthew5355-181717?style=for-the-badge&logo=github)](https://github.com/Matthew5355)
+
+---
+*"The best way to predict the future is to build it."*
